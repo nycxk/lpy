@@ -23,3 +23,20 @@ GitÍøÖ·µÄÑ§Ï°³É±¾ÓÐµã¸ß£¬Ê×ÏÈºÜ¹Ø¼üµÄÒ»µã¾ÍÊÇÈ«Ó¢ÎÄ£¬ÕâÒ»ÏÂ¾Í¸øºÜ¶àÈËÔö¼ÓÁËÑ§Ï°Ä
 ÔÚÑ§Ï°Ê¹ÓÃGitµÄ·½ÃæÎÒÓÐ¸öÐ¡·½·¨¿ÉÒÔ¸¨Öú´ó¼ÒÑ§Ï°£¬¾ÍÊÇÊ¹ÓÃGoogleä¯ÀÀÆ÷£¬Õâ¸öä¯ÀÀÆ÷ÓÐ¸ö·­Òë¹¦ÄÜ£¬ºÜÇ¿´ó£¬¿ÉÒÔ½«Õû¸öÍøÒ³·­Òë³ÉÖÐÎÄ£¬ÕâÑù¾Í´ó
 ´ó¼õÇáÁËÎÒÃÇµÄÑ§Ï°³É±¾£¬²»¹ýÕâÖ»ÊÇ¸ö¸¨Öú¹¤¾ß£¬¾¡Á¿»¹ÊÇ¿¿×Ô¼ºµÄÊµÁ¦À´Õ÷·þÕâ¸öÍøÕ¾£¡ÏàÐÅ×Ô¼ºÒ»¶¨ÓÐÒâÏë²»µ½µÄÊÕ»ñ£¡
 Git»¹¿ÉÒÔÉîÈëµÄÈ¥ÁË½â£¬ÕâÖ»ÊÇ¶ÔGitµÄ³õ²½ÕÆÎÕ£¬Git¼«ÆäÇ¿´ó£¬¶øÇÒÃüÁî·±¶à£¬ÍøÉÏÓÐºÜ¶àgitµÄ×ÊÔ´£¬ÕÒµ½ºÏÊÊµÄÈ¥Ñ§Ï°¡£
+Ñ§Ï°ÐÄµÃ
+1.gitºÍgithubµÄÇø±ð£ºgithubÊÇÒ»¸ö³ÌÐòÔ³´úÂëÏàÇ×ÍøÕ¾£¬¶øgitÊÇÒ»¸ö·Ö²¼Ê½µÄ°æ±¾¹ÜÀí¹¤¾ß£¬µ«ÊÇgithubÊÇ»ùÓÚgitµÄ
+2.windows°²×°githubÍ¼ÐÎ½çÃæµÄÔ­ÒòÊÇ°üº¬ÁËgit bash
+3.°ÑÎÄ¼þÌí¼Óµ½°æ±¾¿â
+ËùÓÐµÄ°æ±¾¿ØÖÆÏµÍ³£¬ÆäÊµÖ»ÄÜ¸ú×ÙÎÄ±¾ÎÄ¼þµÄ¸Ä¶¯
+ÎÄ±¾µÄ±àÂë×îºÃ¶¼ÊÇÍ³Ò»µÄUTF-8
+Ç§Íò²»ÒªÊ¹ÓÃWindows×Ô´øµÄ¼ÇÊÂ±¾±à¼­ÈÎºÎÎÄ±¾ÎÄ¼þ(¿ÉÒÔÊ¹ÓÃnotepad++)
+4.³õÊ¼»¯Ò»¸öGit²Ö¿â£¬Ê¹ÓÃgit initÃüÁî¡£
+Ìí¼ÓÎÄ¼þµ½Git²Ö¿â£¬·ÖÁ½²½£º
+µÚÒ»²½£¬Ê¹ÓÃÃüÁîgit add <file>£¬×¢Òâ£¬¿É·´¸´¶à´ÎÊ¹ÓÃ£¬Ìí¼Ó¶à¸öÎÄ¼þ£»
+µÚ¶þ²½£¬Ê¹ÓÃÃüÁîgit commit£¬Íê³É¡£
+5.°æ±¾»ØÍË
+HEADÖ¸ÏòµÄ°æ±¾¾ÍÊÇµ±Ç°°æ±¾£¬Òò´Ë£¬GitÔÊÐíÎÒÃÇÔÚ°æ±¾µÄÀúÊ·Ö®¼ä´©Ëó£¬Ê¹ÓÃÃüÁîgit reset --hard commit_id¡£
+´©ËóÇ°£¬ÓÃgit log¿ÉÒÔ²é¿´Ìá½»ÀúÊ·£¬ÒÔ±ãÈ·¶¨Òª»ØÍËµ½ÄÄ¸ö°æ±¾¡£
+ÒªÖØ·µÎ´À´£¬ÓÃgit reflog²é¿´ÃüÁîÀúÊ·£¬ÒÔ±ãÈ·¶¨Òª»Øµ½Î´À´µÄÄÄ¸ö°æ±¾¡£
+6(ÖØµã).Git¹ÜÀíµÄÊÇÐÞ¸Ä£¬µ±ÄãÓÃgit addÃüÁîºó£¬ÔÚ¹¤×÷ÇøµÄµÚÒ»´ÎÐÞ¸Ä±»·ÅÈëÔÝ´æÇø£¬×¼±¸Ìá½»£¬µ«ÊÇ£¬ÔÚ¹¤×÷ÇøµÄµÚ¶þ´ÎÐÞ¸Ä²¢Ã»ÓÐ·ÅÈëÔÝ´æÇø£¬ËùÒÔ£¬
+git commitÖ»¸ºÔð°ÑÔÝ´æÇøµÄÐÞ¸ÄÌá½»ÁË£¬Ò²¾ÍÊÇµÚÒ»´ÎµÄÐÞ¸Ä±»Ìá½»ÁË£¬µÚ¶þ´ÎµÄÐÞ¸Ä²»»á±»Ìá½»¡£Èç¹û²»addµ½ÔÝ´æÇø£¬ÄÇ¾Í²»»á¼ÓÈëµ½commitÖÐ
